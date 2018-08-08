@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524248932 source:c:\users\apoor\desktop\my projects\olx\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
+1524319620 source:c:\users\apoor\desktop\my projects\c++ project\olx\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<stdlib.h>
+
