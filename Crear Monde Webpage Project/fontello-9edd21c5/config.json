@@ -1,0 +1,46 @@
+{
+  "name": "fb",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "bc50457410acf467b8b5721240768742",
+      "css": "facebook",
+      "code": 62220,
+      "src": "entypo"
+    },
+    {
+      "uid": "b8d0c7d76e87b94882329a88e8e43d3d",
+      "css": "gplus",
+      "code": 61653,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "627abcdb627cb1789e009c08e2678ef9",
+      "css": "twitter",
+      "code": 61593,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "cc399e4597f157dcbf016be0b7407fea",
+      "css": "pinterest",
+      "code": 62001,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
+      "css": "linkedin",
+      "code": 61665,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0fbfb1cd7a847c88ea4c141d0e1bbdb5",
+      "css": "instagram",
+      "code": 62253,
+      "src": "entypo"
+    }
+  ]
+}
